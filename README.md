@@ -11,6 +11,7 @@ An AI-stock predictor that uses LLM to analyze stock prices and give predictions
 -   **Backend**: Python + FastAPI or Flask (option to use either while other is commented out).
 -   **CSS Framework**: TailwindCSS
 -   **Host**: Vercel
+-   **Bundler**: Turbopack (default with Next.js 13+)
 -   **Linting**: ESLint
 
 ## Features
