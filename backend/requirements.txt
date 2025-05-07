@@ -1,0 +1,21 @@
+# Core dependencies
+python-dotenv==1.0.0
+requests==2.31.0
+pandas==2.1.0
+numpy==1.26.0
+yfinance==0.2.31
+openai==1.3.0
+python-dateutil==2.8.2
+
+# FastAPI dependencies (comment out if using Flask)
+fastapi==0.103.1
+uvicorn==0.23.2
+pydantic==2.4.2
+
+# Flask dependencies (comment out if using FastAPI)
+Flask==2.3.3
+Flask-CORS==4.0.0
+
+# Common utils
+pytest==7.4.2
+black==23.9.1
